@@ -1,7 +1,6 @@
 # 📋 Website Pengajuan Cuti Karyawan (SaaS Multi-Tenant)
 
-Aplikasi SaaS untuk manajemen cuti karyawan — banyak perusahaan bisa mendaftar dan datanya **terisolasi penuh** antar perusahaan. Dibuat untuk tugas mata kuliah **Software as a Service (SaaS)**.
-
+Aplikasi SaaS untuk manajemen cuti karyawan — banyak perusahaan bisa mendaftar dan datanya **terisolasi penuh** antar perusahaan. 
 ## ✨ Fitur
 
 - **Admin (HR):** daftar perusahaan, kelola karyawan (invite/hapus/atur jatah cuti), approve/reject pengajuan cuti
